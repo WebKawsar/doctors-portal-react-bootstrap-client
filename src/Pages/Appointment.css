@@ -1,0 +1,7 @@
+.appointment-section {
+    background-image: url('../doctors-portal-resources/images/introImage-bg.png');
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    height: 600px
+}
